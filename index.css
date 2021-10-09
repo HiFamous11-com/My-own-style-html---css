@@ -27,7 +27,7 @@
     margin-top: 15px;
 }
 button.primaryContained {
-    background: #016ba8;
+    background: #ebeff1;
     color: #fff;
     padding: 10px 10px;
     border: none;
@@ -41,5 +41,5 @@ button.primaryContained {
     border-radius: 5px;
 }
 button.primaryContained:hover {
-    background: #9201A8;
+    background: #06b0ff;
 }
