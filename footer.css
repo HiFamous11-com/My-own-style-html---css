@@ -2,7 +2,10 @@
 
 footer {
   padding: 1rem 5rem;
-  background: var(--nord0);
+  background-image: url(https://i.pinimg.com/originals/c6/3f/2a/c63f2a519558e22acc57db6764fb9c01.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: rgb(10, 255, 235);
   text-align: center;
   margin-top: 1rem;
 }
