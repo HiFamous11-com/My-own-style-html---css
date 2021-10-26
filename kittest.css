@@ -8,6 +8,7 @@
 @import url("./footer.css");
 @import url("img-container.css");
 @import url("box-container.css");
+@import url("fb-page.css");
 
 html {
     scroll-behavior: smooth;
