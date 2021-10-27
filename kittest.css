@@ -59,7 +59,7 @@ html {
   }
   
   nav a:hover {
-    color: var(--nord7);
+    color: rgb(38, 255, 0);
     text-decoration: none;
   }
   
