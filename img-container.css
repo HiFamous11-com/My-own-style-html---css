@@ -12,20 +12,6 @@
     }
   }
 
-  .img-container {
-    animation-name: fade;
-    animation-duration: 4s;
-  }
-  
-  @keyframes fade {
-    from {
-      opacity: 0;
-    }
-    to {
-      opacity: 1;
-    }
-  }
-
 .img-container:hover {
   border-color: aqua;
 }
